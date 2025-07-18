@@ -1,7 +1,7 @@
 
-# AppSec102-AI-Driven-Anomaly-Detection-Bot-Mitigation
+# Web102-FortiAppSecCloud
 
-To view the workshop, please go here: [GitHub Pages Link](https://fortinetcloudcse.github.io/AppSec102-AI-Driven-Anomaly-Detection-Bot-Mitigation/)
+To view the workshop, please go here: [GitHub Pages Link](https://fortinetcloudcse.github.io/Web102-FortiAppSecCloud/)
 
 ---
 
